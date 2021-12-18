@@ -1,17 +1,28 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
 header {
     display: flex;
     justify-content: space-between;
     align-items: flex-end;
-    background-color: #13293d;
+    background-color: burlywood;
     color: #fff;
 }
 
 h1 {
-    
+   padding: 10px 10px 10px 50px;
+   font-size: 40px;
+   background-color: maroon;
+   color: burlywood;
 }
 
 nav ul {
     display: flex;
+    align-items: center;
 }
 
 nav ul li {
@@ -20,5 +31,5 @@ nav ul li {
 }
 
 a {
-    text-decoration: none;
+    color: maroon;
 }
