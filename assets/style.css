@@ -1,0 +1,24 @@
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
+    background-color: #13293d;
+    color: #fff;
+}
+
+h1 {
+    
+}
+
+nav ul {
+    display: flex;
+}
+
+nav ul li {
+    padding: 1rem;
+    list-style-type: none;
+}
+
+a {
+    text-decoration: none;
+}
