@@ -42,3 +42,7 @@ a {
     background-size: cover;
     background-position: center;
 }
+
+.about-me {
+    display: flex;
+}
