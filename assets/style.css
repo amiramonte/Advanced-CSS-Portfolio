@@ -10,10 +10,12 @@ header {
     justify-content: space-between;
     align-items: flex-end;
     background-color: burlywood;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     color: #fff;
 }
 
 h1 {
+   margin: 10px 10px 10px 0px ;
    padding: 10px 10px 10px 50px;
    font-size: 50px;
    background-color: maroon;
@@ -26,7 +28,7 @@ nav ul {
 }
 
 nav ul li {
-    padding: 1rem;
+    margin: 30px 60px 30px 0px;
     list-style-type: none;
 }
 
@@ -74,7 +76,6 @@ a {
     border-right: 5px solid burlywood;
     width: 25%;
     padding-right: 10px;
-}
 }
 
 .contact-me {
