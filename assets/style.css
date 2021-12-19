@@ -54,10 +54,12 @@ a {
     font-size: 40px;
     border-right: 5px solid burlywood;
     width: 25%;
+    padding-right: 10px;
 }
 
 .about-me p {
     width: 75%;
+    padding-left: 30px;
 }
 
 .work {
@@ -71,6 +73,7 @@ a {
     font-size: 40px;
     border-right: 5px solid burlywood;
     width: 25%;
+    padding-right: 10px;
 }
 }
 
@@ -85,4 +88,5 @@ a {
     font-size: 40px;
     border-right: 5px solid burlywood;
     width: 25%;
+    padding-right: 10px;
 }
