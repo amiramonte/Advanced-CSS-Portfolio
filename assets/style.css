@@ -59,3 +59,30 @@ a {
 .about-me p {
     width: 75%;
 }
+
+.work {
+    display: flex;
+}
+
+.work h2 {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    font-size: 40px;
+    border-right: 5px solid burlywood;
+    width: 25%;
+}
+}
+
+.contact-me {
+    display: flex;
+}
+
+.contact-me h2 {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    font-size: 40px;
+    border-right: 5px solid burlywood;
+    width: 25%;
+}
