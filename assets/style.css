@@ -24,7 +24,8 @@ h1 {
 
 nav ul {
     display: flex;
-    align-items: center;
+    align-items: flex-end;
+    justify-content: space-around;
 }
 
 nav ul li {
@@ -37,12 +38,26 @@ a {
 }
 
 .waves {
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-end;
     height: 400px;
     width: 100%;
     margin-bottom: 25px;
     background-image: url(./images/Waves-crashing-on-beach_925x.jpg);
     background-size: cover;
     background-position: center;
+}
+
+h3 {
+    display: flex;
+    justify-content: flex-end;
+    align-items: baseline;
+    margin: 0px 0px 10px 0px;
+    padding: 10px 10px 10px 10px;
+    font-size: 20px;
+    background-color: maroon;
+    color: burlywood;
 }
 
 .about-me {
@@ -55,6 +70,7 @@ a {
     align-items: center;
     font-size: 40px;
     border-right: 5px solid burlywood;
+    margin-bottom: 10px;
     width: 25%;
     padding-right: 10px;
 }
@@ -74,6 +90,7 @@ a {
     align-items: center;
     font-size: 40px;
     border-right: 5px solid burlywood;
+    margin: 10px 0px 10px 0px;
     width: 25%;
     padding-right: 10px;
 }
@@ -88,6 +105,11 @@ a {
     align-items: center;
     font-size: 40px;
     border-right: 5px solid burlywood;
+    margin-top: 10px;
     width: 25%;
     padding-right: 10px;
+}
+
+.contact-me nav {
+    width: 75%;
 }
