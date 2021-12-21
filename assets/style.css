@@ -101,29 +101,78 @@ a {
     flex: 0 0 70%;
 }
 
-.project-1 {
+.boxes {
     display: flex;
     align-items: flex-end;
-    width: 100%;
-    min-height: 300px;
-    background-color: teal;
-    border: 10px solid black;
+    border: 10px solid maroon;
     padding: 0 0px 30px 5px;
     margin: 10px 10px 10px 20px;
 }
 
+.project-1 {
+    width: 100%;
+    min-height: 300px;
+    background-color: teal; 
+}
+
 .project-1 div {
-    background-color: lavender;
+    background-color: maroon;
     height: 70px;
     padding: 10px;
+    color: burlywood;
 }
     
+.project-2 {
+    width: 100%;
+    min-height: 300px;
+    background-color: teal;
+}
 
+.project-2 div {
+    background-color: maroon;
+    height: 70px;
+    padding: 10px;
+    color: burlywood;
+}
 
+.project-3 {
+    width: 100%;
+    min-height: 300px;
+    background-color: teal;
+}
 
+.project-3 div {
+    background-color: maroon;
+    height: 70px;
+    padding: 10px;
+    color: burlywood;
+}
 
+.project-4 {
+    width: 100%;
+    min-height: 300px;
+    background-color: teal;
+}
 
+.project-4 div {
+    background-color: maroon;
+    height: 70px;
+    padding: 10px;
+    color: burlywood;
+}
 
+.project-5 {
+    width: 100%;
+    min-height: 300px;
+    background-color: teal;
+}
+
+.project-5 div {
+    background-color: maroon;
+    height: 70px;
+    padding: 10px;
+    color: burlywood;
+}
 
 .contact-me {
     display: flex;
