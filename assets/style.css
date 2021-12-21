@@ -112,11 +112,12 @@ a {
     border: 10px solid maroon;
     padding: 0 0px 30px 5px;
     margin: 10px 10px 10px 20px;
+    background-size: cover;
 }
 
 .project-1 {
     width: 100%;
-    min-height: 300px;
+    height: 600px;
     background-image: url(./images/breaking-wave.jpg);
 }
 
@@ -129,7 +130,7 @@ a {
     
 .project-2 {
     width: 47%;
-    min-height: 300px;
+    height: 200px;
     background-image: url(./images/surfboards.jpg);
 }
 
@@ -142,7 +143,7 @@ a {
 
 .project-3 {
     width: 47%;
-    min-height: 300px;
+    height: 200px;    
     background-image: url(./images/Waxing_a_surfboard.jpg);
 }
 
@@ -155,7 +156,7 @@ a {
 
 .project-4 {
     width: 47%;
-    min-height: 300px;
+    height: 200px;
     background-image: url(./images/Man_in_wetsuit.jpg);
 }
 
@@ -168,7 +169,7 @@ a {
 
 .project-5 {
     width: 47%;
-    min-height: 300px;
+    height: 200px;
     background-image: url(./images/sunscreen.jpg);
 }
 
