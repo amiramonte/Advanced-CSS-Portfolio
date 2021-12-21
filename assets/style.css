@@ -69,15 +69,17 @@ a {
     justify-content: flex-end;
     align-items: center;
     font-size: 40px;
-    border-right: 5px solid burlywood;
+    border-right: 5px solid maroon;
     margin-bottom: 10px;
     width: 25%;
     padding-right: 10px;
+    color: burlywood;
 }
 
 .about-me p {
     width: 75%;
     padding-left: 30px;
+    color: burlywood;
 }
 
 .work {
@@ -89,15 +91,18 @@ a {
     justify-content: flex-end;
     align-items: center;
     font-size: 40px;
-    border-right: 5px solid burlywood;
+    border-right: 5px solid maroon;
     margin: 10px 0px 10px 0px;
     width: 25%;
     padding-right: 10px;
+    color: burlywood;
 }
 
 .container {
     display: flex;
     justify-content: center;
+    flex-wrap: wrap;
+    justify-content: space-between;
     flex: 0 0 70%;
 }
 
@@ -112,7 +117,7 @@ a {
 .project-1 {
     width: 100%;
     min-height: 300px;
-    background-color: teal; 
+    background-image: url(./images/breaking-wave.jpg);
 }
 
 .project-1 div {
@@ -123,9 +128,9 @@ a {
 }
     
 .project-2 {
-    width: 100%;
+    width: 47%;
     min-height: 300px;
-    background-color: teal;
+    background-image: url(./images/surfboards.jpg);
 }
 
 .project-2 div {
@@ -136,9 +141,9 @@ a {
 }
 
 .project-3 {
-    width: 100%;
+    width: 47%;
     min-height: 300px;
-    background-color: teal;
+    background-image: url(./images/Waxing_a_surfboard.jpg);
 }
 
 .project-3 div {
@@ -149,9 +154,9 @@ a {
 }
 
 .project-4 {
-    width: 100%;
+    width: 47%;
     min-height: 300px;
-    background-color: teal;
+    background-image: url(./images/Man_in_wetsuit.jpg);
 }
 
 .project-4 div {
@@ -162,9 +167,9 @@ a {
 }
 
 .project-5 {
-    width: 100%;
+    width: 47%;
     min-height: 300px;
-    background-color: teal;
+    background-image: url(./images/sunscreen.jpg);
 }
 
 .project-5 div {
@@ -183,10 +188,11 @@ a {
     justify-content: flex-end;
     align-items: center;
     font-size: 40px;
-    border-right: 5px solid burlywood;
+    border-right: 5px solid maroon;
     margin-top: 10px;
     width: 25%;
     padding-right: 10px;
+    color: burlywood;
 }
 
 .contact-me nav {
