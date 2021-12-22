@@ -199,3 +199,17 @@ a {
 .contact-me nav {
     width: 75%;
 }
+
+@media screen and (max-width: 768px) {
+    .contact-me li {
+        flex-wrap: wrap;
+        max-width: auto;
+    }
+}
+
+@media screen and (max-width: 576px) {
+    .contact-me li {
+        flex-wrap: wrap;
+        max-width: auto;
+    }
+}
