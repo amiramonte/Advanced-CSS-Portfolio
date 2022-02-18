@@ -34,7 +34,7 @@ THEN I am presented with a responsive layout that adapts to my viewport
 ## Mock-Up
 
 
-![screenShot](./assets/images/screenshot-advanced-css-portfolio.png)
+![screenShot](./assets/images/screenshot-adv-css-portfolio.png)
 
 
 ## Credits
