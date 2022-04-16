@@ -17,13 +17,25 @@
 
 ## Description
 
-This portfolio template was built as a starting point to house my upcoming coding work. Since I am just starting on my coding journey, I outfitted this portfolio template with a placeholder theme/images until I am able to update it with the work I will be completing in my coding bootcamp. 
+This portfolio was built using HTML and advanced CSS as a starting point to house my coding work and develop my knowledge of vanilla CSS and flexbox. 
 
 
-## Mock-Up
+--- 
 
+
+## Functionality
 
 ![screenShot](./assets/images/screenshot-adv-css-portfolio.png)
+
+
+---
+
+## Deployed Application
+
+[Deployed Portfolio via Github Pages](https://amiramonte.github.io/Advanced-CSS-Portfolio/)
+
+
+---
 
 
 ## Credits
