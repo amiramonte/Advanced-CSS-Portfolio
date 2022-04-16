@@ -9,7 +9,6 @@
 - [Functionality](#functionality)
 - [Deployed Application](#deployed-application)
 - [Technologies](#technologies)
-- [Installation](#installation)
 - [Credits](#credits)
 
 
@@ -37,8 +36,17 @@ This portfolio was built using HTML and advanced CSS as a starting point to hous
 
 ---
 
+## Technologies
+
+- [HTML5](https://developer.mozilla.org/en-US/docs/Web/HTML)
+- [CSS3](https://developer.mozilla.org/en-US/docs/Web/CSS)
+
+
+---
+
 
 ## Credits
 
 #### Alex Miramontes - Jr. Web Developer
+
 [Github](https://github.com/amiramonte)
